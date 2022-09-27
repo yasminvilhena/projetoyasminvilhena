@@ -1,0 +1,54 @@
+
+.imagem {
+    width: 100%;
+    height: auto;
+    padding-top: 15px;
+  }
+  /* Style the links inside the pill navigation menu */
+.menu a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+/* Change the color of links on mouse-over */
+.menu a:hover {
+  background-color: rgb(217, 255, 0);
+  color: black;
+}
+
+/* or to the active/current link */
+.menu a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+ .images{
+  margin: 180px;
+  padding: auto;
+ }
+
+/* caixa de texto da foto */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(4, 191, 248, 0.337);
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;}
+  
+  .portfolio{
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+  }
+
+
+  
